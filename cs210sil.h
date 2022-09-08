@@ -1,7 +1,7 @@
 /* cs210sil.h
  * =============================================================
- *    Name:
- * Section:
+ *    Name: Benjamin Tat
+ * Section: T6
  * Purpose: Creating a safe input library
  * =============================================================
  */
