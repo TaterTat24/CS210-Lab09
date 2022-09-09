@@ -1,6 +1,6 @@
 /* lab09-01.c
  * =============================================================
- *    Name: Benjamin Tat what happens if i change this
+ *    Name: Benjamin Tat
  * Section: T6
  * Purpose: Strings and Secure Programming
  * =============================================================
